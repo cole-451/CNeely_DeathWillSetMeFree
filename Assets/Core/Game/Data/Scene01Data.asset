@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Scene01Data
   m_EditorClassIdentifier: Assembly-CSharp::CGL.Scene.SceneDataSO
   description: Scene Data used by different objects.
-  sceneName: CharacterExample
-  sceneDisplayName: Character Example
+  sceneName: scene
+  sceneDisplayName: scene
   sceneType: 1
-  playerPrefab: {fileID: 0}
+  playerPrefab: {fileID: 8519134279358886953, guid: eb1242fdc6da07247aec9afdae89e899, type: 3}
   startPlayerSpawn: {fileID: 0}
   playerCamera: {fileID: 0}
   backgroundMusic: {fileID: 0}

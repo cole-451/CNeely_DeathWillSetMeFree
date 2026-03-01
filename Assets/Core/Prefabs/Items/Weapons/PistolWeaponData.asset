@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PistolWeaponData
   m_EditorClassIdentifier: Assembly-CSharp::CGL.Inventory.WeaponData
   id: pistol
-  displayName: Piston
+  displayName: Pistol
   description: 
   icon: {fileID: 797595499775425463, guid: 9ce1a11ff7aa36e4b9ad5dacd8c016f8, type: 3}
   itemType: 1
